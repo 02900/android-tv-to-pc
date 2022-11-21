@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.GameHub" parent="@style/Theme.Leanback" />
+</resources>
